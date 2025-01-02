@@ -1,0 +1,64 @@
+.header{
+	background: lightblue;
+	font-size: 20px;
+	font-family: verdana;
+	padding: 10px;
+	text-decoration: none;
+	height: 100px;
+
+}
+.main-content{
+	padding: 20px;
+	text-align: center;
+	border: 2px solid black;
+}
+.lesson-image{
+	padding-top: 5px;
+
+
+}
+.main{
+	margin-bottom: 40px;
+
+}
+.header{
+	margin-bottom: 20px;
+
+}
+.header-list{
+	margin-bottom:30px;
+	list-style-type: none;
+}
+
+.header-logo {
+	float: left	;
+
+}
+
+.header-list li a {
+	float: right;
+	list-style: none;
+	text-decoration: none;
+	color:black;
+	padding: 10px;
+}
+.lesson-image img {
+	cursor: pointer;
+}
+.footer{
+	background: lightblue;
+	padding-top: 20px;
+	font-size: 20px;
+	height: 100px;
+}
+.footer-logo{
+	float:left;
+
+}
+.footer-links li a{
+	float:right;
+	color: black;
+	text-decoration: none;
+	color: black;
+	padding: 10px;
+}
